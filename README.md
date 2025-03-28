@@ -1,0 +1,3 @@
+ラーメンを検索するwebサービスとラインbot用のコードが入っています。
+ラーメンを検索するwebサービスで使用したファイルはindex_2.htmlと Procfile, requirements.txtです
+ライン bot用のコードは app.pyになります
